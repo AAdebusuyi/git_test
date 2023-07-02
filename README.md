@@ -1,3 +1,3 @@
 #git_test
-something somethng
-Hello Odin
+something something
+Hello Odin!
